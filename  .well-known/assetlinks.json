@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.coolopool.coolopool",
+    "sha256_cert_fingerprints":
+    ["BE:93:66:39:1C:32:CB:6E:B1:6A:8F:35:A8:63:24:36:6A:42:86:89:15:61:E6:B2:E2:BB:4E:F1:7F:68:9D:7D"]
+  }
+}]
